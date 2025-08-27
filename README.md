@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Hi there, I'm Novellina! 👋
 
 Welcome to my GitHub!  
@@ -9,7 +6,7 @@ I'm a **Data Scientist** who loves turning messy data into beautiful insights, b
 ## 👩‍💻 About Me
 - 🛠️ Languages: **C, C++, Python, Java, HTML, CSS, JavaScript, Flutter, R**
 - 🌱 Always learning something new in tech (and occasionally in music!)
-- 🧑‍🎤 Fun fact: I love crafting curated Spotify playlists for every mood and moment.
+- 🧑‍🎤 Fun fact: I love crafting curated Spotify playlists for every mood and moment. Got a vibe? I’ve got a playlist!
 
 ## 🚀 What I Do
 - Explore data, find patterns, and build models that make a difference.
