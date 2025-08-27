@@ -25,7 +25,15 @@ I'm a **Data Scientist** who loves turning messy data into beautiful insights, b
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ## 📌 Pinned Repositories
-[Check out my favorite repositories below!](#)
+
+- [**Randomizer_Novellina**](https://github.com/novellinae/Randomizer_Novellina)  
+  <sub>a program/function to randomized 6 numbers <br> <sup><span style="color:#f06292">C++</span></sup></sub>
+
+- [**kensunjaya/ReBio**](https://github.com/kensunjaya/ReBio)  
+  <sub><span style="color:#42a5f5">Dart</span></sub>
+
+- [**Edubel_Slashcom**](https://github.com/novellinae/Edubel_Slashcom)  
+  <sub>Aplikasi Edukasi untuk Disabel <br> <sup><span style="color:#ff7043">HTML</span></sup></sub>
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/novellina-edyawati)
