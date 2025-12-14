@@ -42,4 +42,4 @@ I'm a **Data Scientist** who loves turning messy data into beautiful insights, b
 *Ask me for playlist recommendations!*
 
 ---
-*Thanks for stopping by my profile! Let’s make something awesome together.* 🚀
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6FVhds4hiA3g1gWms7BPy7?si=3f356946bbfc4981)
