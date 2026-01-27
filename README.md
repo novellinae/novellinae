@@ -69,7 +69,7 @@ Curious, detail-oriented, and always eager to learn new technologies.
 
 ### 📰 Hoax News Classification
 **Tech:** Python, NLP, Deep Learning, IndoBERT 
-Developed a machine learning–based text classification system to detect hoax news.  
+Developed a deep learning–based text classification system to detect hoax news.  
 Focused on text preprocessing, feature extraction, model training, and performance evaluation to improve classification accuracy.  
 This project demonstrates strong foundations in **natural language processing and data-driven decision making**.  
 
