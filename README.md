@@ -36,7 +36,7 @@ Curious, detail-oriented, and always eager to learn new technologies.
 </div>
 <div align="center">
 	
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 	
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
