@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Novellina! 👋
+# Hi there! Welcome to my profile!👋
 
 <img src="https://github.com/user-attachments/assets/ae1c0999-4f1b-4873-a7ec-0959d2261cbd" width="760" height="320" />
 <br><br>
