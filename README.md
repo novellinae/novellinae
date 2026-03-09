@@ -2,7 +2,7 @@
 
 # Hi there, I'm Novellina! 👋
 
-<img src="https://github.com/user-attachments/assets/ae1c0999-4f1b-4873-a7ec-0959d2261cbd" width="720" />
+<img src="https://github.com/user-attachments/assets/ae1c0999-4f1b-4873-a7ec-0959d2261cbd" width="760" height="320" />
 <br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&size=40&pause=1000&color=B87982&center=true&vCenter=true&random=true&width=900&height=100&lines=Data-Driven+Thinker;Software+Engineer;Insight+Explorer;Mobile+Developer;An+Undergraduate+Computer+Science+Student)](https://git.io/typing-svg)
