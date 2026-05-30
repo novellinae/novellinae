@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there! Welcome to my profile!👋
+# Hi there! I'm Novellina👋 
 
-<img src="https://github.com/user-attachments/assets/ae1c0999-4f1b-4873-a7ec-0959d2261cbd" width="760" height="320" />
+<img src="https://github.com/user-attachments/assets/560fec8c-4491-47b2-a95d-687eff776648" width="600" height="360" />
 <br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&size=40&pause=1000&color=B87982&center=true&vCenter=true&random=true&width=900&height=100&lines=Data-Driven+Thinker;Software+Engineer;Insight+Explorer;Mobile+Developer;An+Undergraduate+Computer+Science+Student)](https://git.io/typing-svg)
